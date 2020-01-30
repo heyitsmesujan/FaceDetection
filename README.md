@@ -1,3 +1,3 @@
 # Test File for jenkins,!!!
 Ready to go !!
-Fail/Pass
+Pass success using ngrox
